@@ -3,7 +3,7 @@
 # S.ODI_ultra
 
 ## SYSTEM ON-BOARD DEVELOPMENT INTERFACE  ultra v1.0
-  You can construct your intelligent hardware in 15 minutes with S.ODI dev board developed by SPELEC. 
+  You can construct your intelligent hardware system with very low to no effort using our dev board S.ODI ultra developed by SPELEC. 
      The system, onboard development interface, is a Dual-Core Development board based on ESP32 that has integrated sensors Humidity, Temperature and Infrared sensors, actuators, indicator (LED light), a b, and an integrated, WI-FI, Bluetooth, BLE. 
  
   With the help of S.ODI, one can quickly be able to learn how to get the Internet of Things connected online, and make use of Web API and smartphones to interact with it. 
