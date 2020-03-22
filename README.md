@@ -3,10 +3,11 @@
 # S.ODI_ultra
 
 ## SYSTEM ON-BOARD DEVELOPMENT INTERFACE  ultra v1.0
-  You can construct your intelligent hardware system with very low to no effort using our dev board S.ODI ultra developed by SPELEC. 
-     The system, onboard development interface, is a Dual-Core Development board based on ESP32 that has integrated sensors Humidity, Temperature and Infrared sensors, actuators, indicator (LED light), a b, and an integrated, WI-FI, Bluetooth, BLE. 
+  You can construct your intelligent hardware system with very low to no effort using our development board S.ODI ultra developed by SPELEC.
+
+The S.ODI (System onboard development interface) is a Development board that has integrated sensors regarding Humidity, Temperature, flame, LDR and infrared it also has RGB(LED light) which works as an indicator. S.ODI also comes with onboard WI-FI, Bluetooth, BLE which are used to connect with various devices. 
  
-  With the help of S.ODI, one can quickly be able to learn how to get the Internet of Things connected online, and make use of Web API and smartphones to interact with it. 
+With the collection of onboard hardware components and the open-source firmware that we supply one can quickly learn how to get hardware connected online, and how to use Web API and/or smartphones to interact with it.
 ### S.ODI is a system on board that integrates the following features: 
 #### Wi-Fi (2.4 GHz band)
 #### Bluetooth 4.2 
