@@ -32,3 +32,6 @@ With the collection of onboard hardware components and the open-source firmware 
 
 ## Functional Block Diagram of S.ODI ULTRA
 ![](S.ODI%20IMAGES/ultra%20block%20diagram.png)
+
+##### Follow us on Facebook, Twitter, Instagram, Linkedin Get our updates and watch videos related to S.ODI and many more products that are available. 
+##### https://linktr.ee/spelec
