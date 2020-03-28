@@ -20,3 +20,6 @@ With the collection of onboard hardware components and the open-source firmware 
 
   Powered by 40 nm technology, S.ODI provides a robust, highly integrated platform, which helps meet the continuous demands for efficient power usage, compact design, security, high performance, and reliability. 
  SPELEC provides necessary hardware and software resources to help application developers realize their ideas using the S.ODI series hardware. The software development framework by SPELEC is for the development of Internet-of-Things (IoT) applications with WiFi, Bluetooth, power management and several other system features
+ 
+##### to install Board Drivers into arduino IDE copy paste this link: 
+##### https://raw.githubusercontent.com/espressif/arduino-esp32/gh-pages/package_esp32_index.json 
