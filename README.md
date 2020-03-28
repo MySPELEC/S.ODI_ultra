@@ -27,9 +27,7 @@ With the collection of onboard hardware components and the open-source firmware 
 ##### https://raw.githubusercontent.com/espressif/arduino-esp32/gh-pages/package_esp32_index.json 
 
 ## Pinout Diagram of S.ODI ULTRA
-
 ![](S.ODI%20IMAGES/S.ODI%20PINOUT(HD)final.png)
 
 ## Functional Block Diagram of S.ODI ULTRA
-
 ![](S.ODI%20IMAGES/S.ODI%20BLOCK%20DIAGRAM%20HD.png)
