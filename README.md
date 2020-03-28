@@ -7,7 +7,7 @@
 
 The S.ODI (System onboard development interface) is a Development board that has integrated sensors regarding Humidity, Temperature, flame, LDR and infrared it also has RGB(LED light) which works as an indicator. S.ODI also comes with onboard WI-FI, Bluetooth, BLE which are used to connect with various devices. 
  
- ![](S.ODI%20IMAGES/s.odi%20featuring%20broucher.png)
+  ![](S.ODI%20IMAGES/s.odi%20featuring%20broucher%20small.png)
  
 With the collection of onboard hardware components and the open-source firmware that we supply one can quickly learn how to get hardware connected online, and how to use Web API and/or smartphones to interact with it.
 ### S.ODI is a system on board that integrates the following features: 
