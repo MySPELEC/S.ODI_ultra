@@ -28,7 +28,7 @@ With the collection of onboard hardware components and the open-source firmware 
 
 ## Pinout Diagram of S.ODI ULTRA
 
-![](S.ODI%20IMAGES/S.ODI%20PINOUT(HD)final.png)
+![](S.ODI%20IMAGES/S.ODI%20FINAL%20PINOUT%20HD.png)
 
 ## Functional Block Diagram of S.ODI ULTRA
 ![](S.ODI%20IMAGES/ultra%20block%20diagram.png)
