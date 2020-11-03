@@ -35,6 +35,6 @@ With the collection of onboard hardware components and the open-source firmware 
 
 ##### Follow us on Facebook, Twitter, Instagram, Linkedin Get our updates and watch videos related to S.ODI and many more products that are available. 
 ##### https://linktr.ee/spelec
-##### https://t.me/s_odi
+##### Join our Spelec Developers Community@ https://t.me/s_odi
 
 
